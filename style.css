@@ -138,7 +138,7 @@ li:hover .sub-links {
     width: auto;
     background-color: black;
     display: flex;
-    height: 600px;
+    height: 650px;
     background-image: url('./assets/karate\ first\ pic\ 2.jpg');
     background-size:cover; 
     background-position: 30% ; 
@@ -1130,6 +1130,7 @@ li:hover .sub-links {
         margin-top: 40px;
         display: flex;
         justify-content: flex-start;
+        
     }
     #home h1{
         width: 100%;
@@ -1400,7 +1401,7 @@ li:hover .sub-links {
         margin-top: 40px;
         display: flex;
         justify-content: flex-start;
-        height: 500px;
+        height: 550px;
 
        
     }
